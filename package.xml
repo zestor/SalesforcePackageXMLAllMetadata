@@ -254,8 +254,8 @@
 <types><members>*</members><name>ServicePresenceStatus</name></types>
 <!--<types><members>*</members><name>ServiceProcess</name></types>-->
 <types><members>*</members><name>Settings</name></types>
-<types><members>*</members><name>SharedTo</name></types>
-<types><members>*</members><name>SharingBaseRule</name></types>
+<!--<types><members>*</members><name>SharedTo</name></types>-->
+<!--<types><members>*</members><name>SharingBaseRule</name></types>-->
 <types><members>*</members><name>SharingRules</name></types>
 <types><members>*</members><name>SharingSet</name></types>
 <types><members>*</members><name>SiteDotCom</name></types>
@@ -264,8 +264,8 @@
 <types><members>*</members><name>StandardValueSetTranslation</name></types>
 <types><members>*</members><name>StaticResource</name></types>
 <types><members>*</members><name>StreamingAppDataConnector</name></types>
-<types><members>*</members><name>SustainabilityUom</name></types>
-<types><members>*</members><name>SustnUomConversion</name></types>
+<!--<types><members>*</members><name>SustainabilityUom</name></types>-->
+<!--<types><members>*</members><name>SustnUomConversion</name></types>-->
 <types><members>*</members><name>SvcCatalogCategory</name></types>
 <types><members>*</members><name>SvcCatalogFulfillmentFlow</name></types>
 <types><members>*</members><name>SvcCatalogItemDef</name></types>
@@ -275,7 +275,7 @@
 <types><members>*</members><name>Territory2Model</name></types>
 <types><members>*</members><name>Territory2Rule</name></types>
 <types><members>*</members><name>Territory2Type</name></types>
-<types><members>*</members><name>TimelineObjectDefinition</name></types>
+<!--<types><members>*</members><name>TimelineObjectDefinition</name></types>-->
 <types><members>*</members><name>TimeSheetTemplate</name></types>
 <types><members>*</members><name>TopicsForObjects</name></types>
 <types><members>*</members><name>TransactionSecurityPolicy</name></types>
